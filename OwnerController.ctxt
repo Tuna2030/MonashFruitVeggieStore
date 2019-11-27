@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=OwnerController
+comment1.params=userID\ username
+comment1.target=boolean\ deleteAccount(int,\ java.lang.String)
+comment2.params=proID
+comment2.target=boolean\ deleteProduct(int)
+comment3.params=product
+comment3.target=boolean\ manageProduct(java.lang.String)
+comment4.params=product
+comment4.target=boolean\ addProduct(java.lang.String)
+comment5.params=name\ price\ rangeKey\ quantity\ shelfLife
+comment5.target=int\ validateProduct(java.lang.String,\ double,\ int,\ int,\ int)
+numComments=6

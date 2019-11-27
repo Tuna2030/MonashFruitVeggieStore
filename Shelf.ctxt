@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Shelf
+comment1.params=
+comment1.target=Shelf()
+comment2.params=products
+comment2.target=Shelf(java.util.ArrayList)
+comment3.params=
+comment3.target=java.util.ArrayList\ getProducts()
+comment4.params=products
+comment4.target=void\ setProducts(java.util.ArrayList)
+numComments=5

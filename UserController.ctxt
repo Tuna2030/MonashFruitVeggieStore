@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=UserController
+comment1.params=
+comment1.target=UserController()
+comment2.params=userName\ password
+comment2.target=int\ login(java.lang.String,\ java.lang.String)
+comment3.params=userID
+comment3.target=java.lang.String[]\ viewTransaction(int)
+comment4.params=keyword
+comment4.target=java.lang.String\ searchProduct(java.lang.String)
+comment5.params=userID
+comment5.target=java.lang.String[]\ viewAccounts(int)
+numComments=6

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=BankCard
+comment1.params=
+comment1.target=BankCard()
+comment2.params=cardNo\ cvv\ expiryDate
+comment2.target=BankCard(java.lang.String,\ int,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getCardNo()
+comment4.params=cardNo
+comment4.target=void\ setCardNo(java.lang.String)
+comment5.params=
+comment5.target=int\ getCvv()
+comment6.params=cvv
+comment6.target=void\ setCvv(int)
+comment7.params=
+comment7.target=java.lang.String\ getExpiryDate()
+comment8.params=expiryDate
+comment8.target=void\ setExpiryDate(java.lang.String)
+numComments=9
